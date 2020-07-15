@@ -21,6 +21,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
     EditText nameET, messageET;
     RadioButton maleRB, femaleRT;
+    //Hi Syed!!!
     RadioGroup radioGroup;
     CheckBox agree;
     Button toastB, showB, nextB;
