@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     EditText nameET, messageET;
     RadioButton maleRB, femaleRT;
     //Hi Syed!!!
+
+    //I am awesome!!!
     RadioGroup radioGroup;
     CheckBox agree;
     Button toastB, showB, nextB;
